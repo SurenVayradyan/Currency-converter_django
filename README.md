@@ -1,1 +1,1 @@
-# Convector_currency_django
+# Веб приложение конвектора валют на Django
